@@ -12,7 +12,7 @@ Back-end: MongoDB
 
 Server: NodeJS and ExpressJS
 
-User Interface: Boostrap 4
+User Interface: Boostrap 4 and jQuery
 
 Framework: Angular
 
