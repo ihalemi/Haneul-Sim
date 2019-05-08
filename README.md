@@ -8,9 +8,7 @@ This web-app is to manage employees using an existing API (https://web422-teams-
 
 Front-end: JavaScript, TypeScript, HTML5, CSS3
 
-Back-end: MongoDB
-
-Server: NodeJS and ExpressJS
+Back-end: server-side built with Node and Express - data persistance with MongoDB/Mongoose
 
 User Interface: Boostrap 4 and jQuery
 
