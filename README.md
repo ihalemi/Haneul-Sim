@@ -1,8 +1,7 @@
-# Web-Application-REST-API
+# Angular Web App - Hanuel Sim - https://web422-angular-app.herokuapp.com/
 
 WEB422 course @SenecaCollege
 
-url: https://web422-angular-app.herokuapp.com/
 
 This web-app is to manage employees using an existing API (https://web422-teams-api-han.herokuapp.com/employees)
 
