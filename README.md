@@ -1,4 +1,4 @@
-# Angular Web App - Hanuel Sim - https://web422-angular-app.herokuapp.com/
+# Angular Web App - Haneul Sim - https://web422-angular-app.herokuapp.com/
 
 WEB422 course @SenecaCollege
 
